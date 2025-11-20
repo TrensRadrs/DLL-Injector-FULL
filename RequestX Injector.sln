@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{50E44C0E-2927-4DAD-91FA-97F63EAA3BC3}") = "RequestX Injector", "RequestX\RequestX Injector.csproj", "{08C4BED8-4AE9-4BC7-8F93-1E734AAB4D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C4BED8-4AE9-4BC7-8F93-1E734AAB4D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C4BED8-4AE9-4BC7-8F93-1E734AAB4D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C4BED8-4AE9-4BC7-8F93-1E734AAB4D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C4BED8-4AE9-4BC7-8F93-1E734AAB4D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFE55505-40DA-450E-A0F0-BDCD69FD0DAE}
+	EndGlobalSection
+EndGlobal
